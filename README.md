@@ -16,9 +16,9 @@ FRONTEND: Interface
 
 Results:-
 
-![FMD_1](https://github.com/SharbaniChakraborty/Face_Mask_Detection/assets/170112191/daf6d793-3c0e-4fe4-abca-cb1448528a81)
+![FMD_1](https://github.com/SharbaniChakraborty/Face_Mask_Detection/assets/170112191/7f8c879a-257b-4b4f-8652-4d90dbb7c354)
 
-![FMD_2](https://github.com/SharbaniChakraborty/Face_Mask_Detection/assets/170112191/9e028438-c954-4ab1-a08e-27c794da0e08)
+![FMD_2](https://github.com/SharbaniChakraborty/Face_Mask_Detection/assets/170112191/f4987375-9ac8-47b8-a991-78707ebcf4ad)
 
 ![FMD3](https://github.com/SharbaniChakraborty/Face_Mask_Detection/assets/170112191/ad775609-70c2-44e3-81c6-4a3336531316)
 
