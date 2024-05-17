@@ -3,15 +3,17 @@
 2. The application can get the images from different sources like: - image, video, webcam, IP camera.
 3. This application can be simply used on a browser and on a Local Area Network.
 
-Why is it really needed?
+# Why is it really needed?
 1.	This system can be used in many places such as hospitals, Research Labs, Nuclear Power Plants, in cases of pandemics, High AQI areas.
 2.	This kind of project shows my Machine Learning Knowledge, Programming Skills and project management Skills.
 
-BACKEND: code, Functionalities
+# BACKEND: 
+                            code, Functionalities
                             Face Detection: OpenCV
                             Mask Detection: TensorFlow
     
-FRONTEND: Interface
+# FRONTEND: 
+                           Interface
                            Web Application: Streamlit
 
 Results:-
