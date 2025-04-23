@@ -1,6 +1,6 @@
 # Face_Mask_Detection
 1. It is a computer vision application which can first detect the faces into an image and then detect whether the faces have a mask or not.
-2. The application can get the images from different sources like: - image, video, webcam, IP camera.
+2. The application (made as part of an online course that I did) can get the images from different sources like: - image, video, webcam, IP camera.
 3. This application can be simply used on a browser and on a Local Area Network.
 
 # Why is it really needed?
